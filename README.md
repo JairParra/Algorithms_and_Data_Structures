@@ -1,2 +1,2 @@
-# Data_Structures
-Various data structures implementation in Java and C
+# Algorithms_and_Data_Structures
+- Theoretical definitions of common algorithms and data-structures and implementations in Java, C, and Python
